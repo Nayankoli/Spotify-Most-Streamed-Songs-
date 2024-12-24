@@ -1,2 +1,2 @@
 # Spotify-Most-Streamed-Songs-
-This file contains a detailed data dictionary for a Spotify Most Streamed Songs dataset, providing information on track details, streaming metrics across platforms, and musical attributes. It serves as a guide for analyzing trends in music popularity and composition.
+This dataset contains comprehensive information on some of the most streamed songs on Spotify, enriched with additional insights from other popular streaming platforms like Apple Music, Deezer, and Shazam. It is ideal for music analysts, data scientists, and machine learning enthusiasts who are interested in exploring trends and characteristics of popular music tracks.
