@@ -1,4 +1,4 @@
-# Spotify-Most-Streamed-Songs-
+# Spotify-Streamed-Songs-
 # About Project - 
 This file contains a detailed data dictionary for a Spotify Most Streamed Songs dataset, providing information on track details, streaming metrics across platforms, and musical attributes. It serves as a guide for analyzing trends in music popularity and composition.
 This project not only explores the depths of 2023's chart-toppers but also leverages Python and the Spotify Web APIs.Here Python script is used that interacts with the Spotify Web API and a pandas DataFrame to retrieve track details including the cover URL for a list of tracks provided in an Excel file.Using a pandas DataFrame, we retrieve intricate track details, from beats and danceability to album cover In this project, we meticulously calculate average streams per year, dissect streams by track and artist names, and analyze trends based on release dates, top songs, their danceability, valence, energy levels, and instrumental content🎵📊🔍
